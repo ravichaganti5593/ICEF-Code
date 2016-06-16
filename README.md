@@ -1,5 +1,5 @@
 # ICEF-Code
-This is a repository for ICEF. All the files are mainly written in PHP, HTML, CSS, and JavaScript. Certain files will be uploaded including:
+This is a repository for India Canada Economic Forum. All the files are mainly written in PHP, HTML, CSS, and JavaScript. Certain files will be uploaded including:
 
 1. Research - PHP and JavaScript
 2. Index Page (sidebar - center and bottom, page template) - PHP
