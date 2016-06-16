@@ -1,4 +1,7 @@
 # ICEF-Code
-This is a repository for ICEF. All the files are mainly written in HTML, CSS, and JavaScript. 
+This is a repository for ICEF. All the files are mainly written in PHP, HTML, CSS, and JavaScript. Certain files will be uploaded including:
 
-Models are designed simulated using Tableau software and extracted into ICEF's webpages using JavaScript. 
+1. Research - PHP and JavaScript
+2. Index Page (sidebar - center and bottom, page template) - PHP
+
+Models are designed and simulated by using Tableau software and extracted into ICEF's webpages by using JavaScript. 
