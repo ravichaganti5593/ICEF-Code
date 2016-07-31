@@ -7,4 +7,4 @@ This is a repository for India Canada Economic Forum. All the files are mainly w
 
 
 
-Models are designed and simulated by using Tableau software and extracted into ICEF's webpages by using JavaScript. 
+Models are designed and simulated by using Tableau software and embedded into ICEF's webpages by using JavaScript. 
